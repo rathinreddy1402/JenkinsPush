@@ -15,9 +15,9 @@ public class Demo1Test {
 	@Test
 	public void d1Test()
 	{
-		//welcome
-		System.out.println("Hi");
 		
+		System.out.println("Hi");
+		//merge
 		//WebDriver driver=new ChromeDriver();
 		//driver.get("https://www.flipkart.com/");
 		/*String BROWSER = System.getProperty("browser");
